@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+    margin: 20px;
+    background-image: url('https://img.freepik.com/vector-gratis/fondo-pelicula-casera-palomitas-maiz_1419-1852.jpg?t=st=1740179675~exp=1740183275~hmac=03a6e9a196bbce9f5fdbbdec9e48a060d0ffc75f1280e7caa32b0acf443b54f2&w=900');
+    color: white;
+}
